@@ -4,5 +4,5 @@ cd build
 cmake -DCMAKE_BUILD_TYPE=Release ../src
 make
 cd ..
-mv build/maggot .
+mv build/snake .
 rm -r build
