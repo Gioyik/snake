@@ -19,6 +19,6 @@
 *.app
 
 # Specific executables and packages
-debug_maggot
-maggot
+debug_snake
+snake
 /packages
